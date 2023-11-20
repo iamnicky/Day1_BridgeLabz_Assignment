@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ac8a02e-e221-49c5-8243-5db101e1a8c6" name="Changes" comment="done with flip the coin logic">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DetermineLeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/DetermineLeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/PowerOfTwo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DetermineLeapYear">
+  <component name="RunManager" selected="Application.PowerOfTwo">
     <configuration name="DetermineLeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DetermineLeapYear" />
       <module name="GE Digital" />
@@ -67,8 +65,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DetermineLeapYear" />
         <item itemvalue="Application.PowerOfTwo" />
+        <item itemvalue="Application.DetermineLeapYear" />
       </list>
     </recent_temporary>
   </component>
